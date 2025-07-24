@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-Hey there! I'm Sameera — a passionate Software Engineer and **CS.CODE.IN FELLOW `24** for building impactful web apps  
+Hey there! I'm Sameera — a passionate Software Engineer and **CS.CODE.IN Fellow `24** for building impactful web apps  
 and empowering communities through technology. I’ve worked with startups, non-profits, and bootcamps  
 to build scalable solutions and mentor others on their coding journeys.
 
