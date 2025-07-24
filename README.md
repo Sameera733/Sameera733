@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-Hey there! I'm Sameera — a passionate Software Engineer with a love for building impactful web apps  
+Hey there! I'm Sameera — a passionate Software Engineer with a love and **CS.CODE.IN FELLOW `24 ** for building impactful web apps  
 and empowering communities through technology. I’ve worked with startups, non-profits, and bootcamps  
 to build scalable solutions and mentor others on their coding journeys.
 
@@ -13,7 +13,7 @@ to build scalable solutions and mentor others on their coding journeys.
 - 🛠️ Building with **MERN, IoT, and AI-powered apps**
 - 🚀 Ex-Founder @ Scrapman, led from ideation to implementation
 - 📢 Passionate about **mentoring & tech-for-good**
-- 💬 Always open to networking & collaboration → `sameerabegum324@gmail.com`
+- 💬 Always open to networking & collaboration → `sameerabegum.com`
 
 ---
 
@@ -32,7 +32,7 @@ to build scalable solutions and mentor others on their coding journeys.
 
 ### 🌟 Projects
 
-- 🔗 **[Digital Visiting Card](https://sameerabegum.com)**  
+- 🔗 **Digital Visiting Card**  
   Create & share custom web-based visiting cards  
 - ⛅ **Weather App**  
   Real-time weather updates using open weather API  
@@ -63,12 +63,5 @@ to build scalable solutions and mentor others on their coding journeys.
 
 ---
 
-### 🏆 Achievements
-
-- 🏅 Hacktober 2022 — Code For India
-- 💡 Fusion 2022 — CSI State Convention
-- 📜 Cisco Certifications — IoT, Cybersecurity, DevNet
-
----
 
 > "Every line of code you write makes the world a little better."
